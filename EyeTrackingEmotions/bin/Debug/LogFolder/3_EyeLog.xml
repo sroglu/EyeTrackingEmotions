@@ -1,0 +1,3899 @@
+<?xml version="1.0"?>
+<ArrayOfSubjectEyeLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SubjectEyeLog SubjectID="3" LogID="0">
+    <eyeData>
+      <EyeDataList TimeStamp="13580843264">
+        <X>917.732044022929</X>
+        <Y>565.52637462269843</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13580876509">
+        <X>917.25547991815324</X>
+        <Y>559.90995329797011</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13580910003">
+        <X>916.93777051496943</X>
+        <Y>556.16567241481789</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13580943253">
+        <X>916.71083522698086</X>
+        <Y>553.4911860697091</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13580976716">
+        <X>916.54063376098952</X>
+        <Y>551.48532131087757</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581009986">
+        <X>916.40825484299626</X>
+        <Y>549.92520427623072</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581043444">
+        <X>916.30235170860169</X>
+        <Y>548.67711064851335</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581076697">
+        <X>916.21570368955145</X>
+        <Y>547.45685993910843</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581110125">
+        <X>916.14349700700961</X>
+        <Y>546.43998434793752</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581143296">
+        <X>916.0823990448589</X>
+        <Y>545.57955115540847</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581176805">
+        <X>916.0300293630155</X>
+        <Y>545.14165688044989</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581210100">
+        <X>784.72376447628619</X>
+        <Y>760.53587981750343</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581243383">
+        <X>784.72376447628619</X>
+        <Y>760.53587981750343</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581276794">
+        <X>784.72376447628608</X>
+        <Y>760.53587981750343</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581309938">
+        <X>784.72376447628608</X>
+        <Y>760.65567604061039</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581343460">
+        <X>784.72376447628619</X>
+        <Y>760.7275537744747</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581376614">
+        <X>784.72376447628619</X>
+        <Y>760.77547226371757</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581409966">
+        <X>786.39434970573541</X>
+        <Y>760.80969975603375</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581443410">
+        <X>787.64728862782238</X>
+        <Y>760.835370375271</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581476723">
+        <X>788.62179667833448</X>
+        <Y>760.97505364725407</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581510084">
+        <X>789.5534824798865</X>
+        <Y>761.08680026484058</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581543419">
+        <X>790.36114411539347</X>
+        <Y>761.17822931559317</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581576564">
+        <X>791.423201166408</X>
+        <Y>761.25442019122033</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581609968">
+        <X>792.32872250180571</X>
+        <Y>761.31888939367411</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581643207">
+        <X>793.30307707459883</X>
+        <Y>761.72255856931952</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581676670">
+        <X>794.148175492097</X>
+        <Y>762.0724051882122</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581710076">
+        <X>794.89863911476982</X>
+        <Y>762.37852097974337</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581743215">
+        <X>795.61293851754181</X>
+        <Y>762.65058994028175</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581776613">
+        <X>796.24787132000574</X>
+        <Y>762.89242901631587</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581809976">
+        <X>796.81596909063137</X>
+        <Y>763.10881134750434</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581843180">
+        <X>797.42213939949579</X>
+        <Y>763.303555445574</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581876466">
+        <X>797.97057920275415</X>
+        <Y>763.47975248668456</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581909923">
+        <X>798.46916084207987</X>
+        <Y>763.65714715801755</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581943218">
+        <X>798.92438755624687</X>
+        <Y>763.81911620575636</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13581976589">
+        <X>799.3416787109</X>
+        <Y>763.96758783285031</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582010032">
+        <X>799.75113353729012</X>
+        <Y>764.10418172977666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582043385">
+        <X>800.12909183857334</X>
+        <Y>764.23026840386262</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582076627">
+        <X>800.47905322865029</X>
+        <Y>764.29620808831817</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582110014">
+        <X>800.80401737657894</X>
+        <Y>764.32181463120878</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582143214">
+        <X>801.10657020396081</X>
+        <Y>764.30899171368469</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582176553">
+        <X>900.34679165650073</X>
+        <Y>452.00965838900095</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582209909">
+        <X>902.2802689882019</X>
+        <Y>376.96442089660991</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582243186">
+        <X>902.2802689882019</X>
+        <Y>376.96442089660991</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582276673">
+        <X>902.2802689882019</X>
+        <Y>376.96442089660991</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582309927">
+        <X>933.01165900882529</X>
+        <Y>205.82800878310945</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582343325">
+        <X>934.12512522894019</X>
+        <Y>205.82800878310945</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582376531">
+        <X>934.49628063564512</X>
+        <Y>205.82800878310945</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582409893">
+        <X>934.68185833899759</X>
+        <Y>205.59149063161235</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582443208">
+        <X>936.93288713689378</X>
+        <Y>205.44957974071409</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582476591">
+        <X>938.4335730021578</X>
+        <Y>205.35497248011524</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582509971">
+        <X>939.50549147734637</X>
+        <Y>204.66696623450591</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582543316">
+        <X>940.30943033373785</X>
+        <Y>204.13186910598466</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582576634">
+        <X>940.93471611093116</X>
+        <Y>203.71568245046811</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582609983">
+        <X>941.43494473268584</X>
+        <Y>203.38273312605489</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582643170">
+        <X>905.86811226340888</X>
+        <Y>426.54423521858428</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582676510">
+        <X>857.52485100859326</X>
+        <Y>744.189437990322</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582709880">
+        <X>857.52485100859326</X>
+        <Y>744.189437990322</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582743223">
+        <X>857.52485100859326</X>
+        <Y>744.189437990322</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582776525">
+        <X>857.52485100859326</X>
+        <Y>744.309126891755</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582809851">
+        <X>854.66579359459638</X>
+        <Y>745.6763796976503</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582843296">
+        <X>852.73652627901356</X>
+        <Y>746.58788156824721</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582876465">
+        <X>851.35847819645426</X>
+        <Y>747.23895433295922</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582909854">
+        <X>850.32494213453481</X>
+        <Y>748.78737217016408</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582943296">
+        <X>848.55563491884766</X>
+        <Y>749.99169715465666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13582976493">
+        <X>846.920358110799</X>
+        <Y>750.95515714225087</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583009880">
+        <X>845.58240435875916</X>
+        <Y>751.7434425866461</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583043155">
+        <X>844.467442898726</X>
+        <Y>752.45724317361839</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583076583">
+        <X>842.66961798979924</X>
+        <Y>753.36032950353115</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583109890">
+        <X>841.12862521071918</X>
+        <Y>754.14818259798255</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="1">
+    <eyeData>
+      <EyeDataList TimeStamp="13583142990">
+        <X>839.7930981355164</X>
+        <Y>754.83098861317376</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583176454">
+        <X>838.20742814631819</X>
+        <Y>755.42844387646608</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583209874">
+        <X>836.80830756761384</X>
+        <Y>755.95561028525344</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583243266">
+        <X>835.56464483098785</X>
+        <Y>756.42420264861994</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583276468">
+        <X>834.31832599817756</X>
+        <Y>756.84346950005317</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583309888">
+        <X>833.19663904864831</X>
+        <Y>757.220809666343</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583343240">
+        <X>832.18177942764567</X>
+        <Y>757.45539754876972</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583376482">
+        <X>831.22518784136867</X>
+        <Y>757.66865926006676</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583409889">
+        <X>830.35177813215921</X>
+        <Y>757.86337647472919</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583443222">
+        <X>829.55115256538386</X>
+        <Y>757.93548481142852</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583476399">
+        <X>852.96702400690947</X>
+        <Y>546.25751431739559</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583509896">
+        <X>893.2586636655808</X>
+        <Y>363.81268387470226</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583543206">
+        <X>893.2586636655808</X>
+        <Y>358.09906845040553</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583576531">
+        <X>893.2586636655808</X>
+        <Y>354.31473750393997</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583609890">
+        <X>894.00695882518426</X>
+        <Y>352.42257203070716</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583643095">
+        <X>894.45593592094633</X>
+        <Y>351.28727274676748</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583676534">
+        <X>894.75525398478783</X>
+        <Y>348.76079258037794</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583709731">
+        <X>894.96905260181734</X>
+        <Y>346.86391875529529</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583742975">
+        <X>895.21842506923667</X>
+        <Y>344.92989391875187</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583776533">
+        <X>895.46597301697852</X>
+        <Y>343.20296367513993</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583809750">
+        <X>895.73856240144687</X>
+        <Y>341.82141948025037</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583843120">
+        <X>896.0822021794927</X>
+        <Y>340.69106513897708</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583876429">
+        <X>896.46779810566829</X>
+        <Y>339.74910318791603</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583909770">
+        <X>896.794071581663</X>
+        <Y>338.62432487264846</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583943065">
+        <X>897.07373456108712</X>
+        <Y>337.66022917384765</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13583976506">
+        <X>897.63353951121428</X>
+        <Y>336.82467956822029</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584009813">
+        <X>898.18691138829627</X>
+        <Y>335.7612570706886</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584043161">
+        <X>898.78104624841092</X>
+        <Y>334.75488726237836</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584076482">
+        <X>899.42793202979487</X>
+        <Y>333.86033632165817</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584109820">
+        <X>900.00672457103326</X>
+        <Y>333.05994863785588</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584143056">
+        <X>900.52763785814773</X>
+        <Y>332.33959972243383</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584176361">
+        <X>901.20319732391852</X>
+        <Y>331.68785546562339</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584209816">
+        <X>901.81734229280119</X>
+        <Y>330.96964399060261</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584243148">
+        <X>902.37808335134616</X>
+        <Y>330.3138856873228</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584276483">
+        <X>902.89209598834566</X>
+        <Y>329.7127739093163</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584309805">
+        <X>903.3649876143852</X>
+        <Y>329.15975107355024</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584343112">
+        <X>903.80150296149873</X>
+        <Y>328.64926845592009</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584376410">
+        <X>904.20568383845557</X>
+        <Y>328.18284145367949</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584409669">
+        <X>904.58099465277269</X>
+        <Y>327.74973066588461</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584443056">
+        <X>904.93042196265424</X>
+        <Y>327.34648958759288</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584476470">
+        <X>905.25655411854359</X>
+        <Y>326.97013124785394</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584509766">
+        <X>918.68460412028185</X>
+        <Y>235.33020592132624</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584543088">
+        <X>918.68460412028185</X>
+        <Y>234.74353631387538</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584576438">
+        <X>918.68460412028185</X>
+        <Y>232.45870313726186</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584609795">
+        <X>919.68263152653662</X>
+        <Y>230.13665075541184</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584642976">
+        <X>921.91124126791067</X>
+        <Y>228.74341932630182</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584676448">
+        <X>923.3969810954934</X>
+        <Y>227.81459837356184</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584709745">
+        <X>924.458223829481</X>
+        <Y>225.53569640393812</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584743075">
+        <X>926.33188687480151</X>
+        <Y>223.82651992672035</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584776422">
+        <X>927.78918035449522</X>
+        <Y>222.49716044443986</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584809723">
+        <X>928.95501513825025</X>
+        <Y>220.29180520612866</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584843087">
+        <X>930.03222772662093</X>
+        <Y>217.96688043564527</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584876351">
+        <X>930.92990488359646</X>
+        <Y>215.97093764655011</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584909680">
+        <X>931.68947786257581</X>
+        <Y>214.20910305929277</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584942937">
+        <X>932.48182150934269</X>
+        <Y>212.16725469002975</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13584976377">
+        <X>933.28818587603314</X>
+        <Y>210.39765277000177</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585009607">
+        <X>934.06017009131517</X>
+        <Y>208.84925108997729</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585042966">
+        <X>975.3223447361911</X>
+        <Y>185.6232258896103</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585076382">
+        <X>975.3223447361911</X>
+        <Y>599.52846752195569</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585109667">
+        <X>975.3223447361911</X>
+        <Y>760.0563845394181</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585142911">
+        <X>979.69881390061664</X>
+        <Y>768.120118489574</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585176389">
+        <X>981.15763695542523</X>
+        <Y>771.5582248238486</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585209712">
+        <X>981.88704848282953</X>
+        <Y>773.27727799098591</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585242880">
+        <X>982.32469539927206</X>
+        <Y>774.30870989126834</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585276262">
+        <X>982.61646001023382</X>
+        <Y>774.99633115812333</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585309453">
+        <X>982.82486330377787</X>
+        <Y>775.48748920587684</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585342845">
+        <X>982.98116577393591</X>
+        <Y>775.763500264416</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585376203">
+        <X>983.10273436183661</X>
+        <Y>775.97817553216873</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585409605">
+        <X>983.19998923215724</X>
+        <Y>776.149915746371</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585442814">
+        <X>983.27237848091943</X>
+        <Y>776.29043046708182</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585476293">
+        <X>983.332702854888</X>
+        <Y>776.40752606767421</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585509527">
+        <X>983.38374655593839</X>
+        <Y>776.50660696048328</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585542987">
+        <X>982.88903349232066</X>
+        <Y>776.59153344003391</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585576354">
+        <X>982.35393521899232</X>
+        <Y>776.66513638897766</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="2">
+    <eyeData>
+      <EyeDataList TimeStamp="13585609669">
+        <X>981.88572422982986</X>
+        <Y>776.69010593326016</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585642724">
+        <X>981.47259688645136</X>
+        <Y>776.65192293861833</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585676149">
+        <X>969.25514127747192</X>
+        <Y>359.54853082791931</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585709618">
+        <X>966.34747470492425</X>
+        <Y>242.8501034249494</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585742932">
+        <X>966.34747470492425</X>
+        <Y>239.57333226751149</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585776277">
+        <X>966.34747470492425</X>
+        <Y>237.40221113470483</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585809525">
+        <X>966.34747470492425</X>
+        <Y>234.27070477952367</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585842943">
+        <X>963.969038452496</X>
+        <Y>232.39180096641502</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585876231">
+        <X>961.9223053780546</X>
+        <Y>231.13919842434257</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585909493">
+        <X>960.25185345174873</X>
+        <Y>230.12891939846665</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585942997">
+        <X>958.89472948169043</X>
+        <Y>228.8850782465172</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13585976309">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586009638">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586042889">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586076261">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586109621">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586142819">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586176155">
+        <X>957.83918861608959</X>
+        <Y>227.91764623944539</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586209589">
+        <X>956.99475592360886</X>
+        <Y>227.14370063378794</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586242934">
+        <X>871.30141666806855</X>
+        <Y>577.86286880569253</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586276299">
+        <X>871.30141666806855</X>
+        <Y>581.616498662275</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586309594">
+        <X>871.30141666806844</X>
+        <Y>590.97704204165314</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586342867">
+        <X>870.3173810674449</X>
+        <Y>597.31115060545164</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586376248">
+        <X>869.72695970707082</X>
+        <Y>601.87409397496</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586409601">
+        <X>869.33334546682147</X>
+        <Y>605.05743609998967</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586442848">
+        <X>867.3652742655745</X>
+        <Y>648.82690004723531</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586476250">
+        <X>787.558934206077</X>
+        <Y>742.22965534683385</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586509487">
+        <X>785.8438726531607</X>
+        <Y>746.59895731041752</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586542921">
+        <X>785.27218546885524</X>
+        <Y>748.05539129827878</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586576048">
+        <X>784.98634187670257</X>
+        <Y>748.78360829220946</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586609457">
+        <X>784.814835721411</X>
+        <Y>749.22053848856785</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586642798">
+        <X>784.70049828454989</X>
+        <Y>749.51182528614</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586676010">
+        <X>784.618828686792</X>
+        <Y>749.7198872844059</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586709425">
+        <X>784.5575764884735</X>
+        <Y>749.62495737028542</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586742828">
+        <X>784.95742793085583</X>
+        <Y>749.47582729426347</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586776143">
+        <X>785.27730908476178</X>
+        <Y>749.24131802252077</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586809429">
+        <X>785.5390300288667</X>
+        <Y>749.04944680018582</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586842772">
+        <X>786.08931867396313</X>
+        <Y>748.88955411490667</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586876137">
+        <X>786.95962058378541</X>
+        <Y>748.62353947862061</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586909493">
+        <X>824.74381351637726</X>
+        <Y>615.57773309237587</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586942856">
+        <X>870.8018970117912</X>
+        <Y>337.40852023794139</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13586976043">
+        <X>879.62523404452645</X>
+        <Y>337.40852023794139</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587009511">
+        <X>886.55109781003353</X>
+        <Y>337.40852023794139</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587042841">
+        <X>890.28564135466638</X>
+        <Y>337.40852023794139</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587076194">
+        <X>892.52636748144619</X>
+        <Y>337.40852023794139</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587109526">
+        <X>894.02018489929947</X>
+        <Y>337.40852023794139</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587142724">
+        <X>795.42027522476224</X>
+        <Y>472.15011908745169</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587176137">
+        <X>727.88020012418076</X>
+        <Y>746.23382297552371</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587209346">
+        <X>722.3648492699906</X>
+        <Y>750.57443209833627</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587242865">
+        <X>720.52639898526047</X>
+        <Y>754.78579683454836</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587276143">
+        <X>719.60717384289546</X>
+        <Y>759.38302298188523</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587309488">
+        <X>718.87103738355506</X>
+        <Y>762.14135867028745</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587342833">
+        <X>718.38027974399483</X>
+        <Y>763.98024912922222</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587376171">
+        <X>718.02973857288032</X>
+        <Y>765.29374231417557</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587409363">
+        <X>718.06682569751581</X>
+        <Y>766.27886220289065</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587442722">
+        <X>718.095671238899</X>
+        <Y>767.04506656078</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587476165">
+        <X>718.1187476720055</X>
+        <Y>767.65803004709164</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587509475">
+        <X>718.13762839000174</X>
+        <Y>767.6397123134</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587542824">
+        <X>718.15336232166521</X>
+        <Y>767.6244475353235</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="3">
+    <eyeData>
+      <EyeDataList TimeStamp="13587576116">
+        <X>718.18207106797365</X>
+        <Y>767.61153118464347</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587609368">
+        <X>718.46045308871146</X>
+        <Y>767.31677080241673</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587642555">
+        <X>718.70824411277056</X>
+        <Y>767.03539076675827</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587676132">
+        <X>901.00671184202474</X>
+        <Y>477.05084288244632</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587709419">
+        <X>972.804408640343</X>
+        <Y>237.73340982208811</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587742791">
+        <X>976.60092326984341</X>
+        <Y>237.73340982208811</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587776075">
+        <X>979.43918147064846</X>
+        <Y>237.73340982208811</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587809431">
+        <X>980.85831057105088</X>
+        <Y>236.09116942301358</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587842790">
+        <X>981.70978803129242</X>
+        <Y>234.55468436255262</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587876098">
+        <X>982.27743967145352</X>
+        <Y>233.53036098891198</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587909323">
+        <X>983.15592602077732</X>
+        <Y>232.79870143631149</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587942677">
+        <X>983.81479078277</X>
+        <Y>232.86056708092764</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13587975950">
+        <X>984.32724115320889</X>
+        <Y>232.90868480451798</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588009399">
+        <X>983.9617604557684</X>
+        <Y>232.94717898339025</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588042761">
+        <X>983.66273079422626</X>
+        <Y>233.15878284859184</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588076068">
+        <X>983.41353940960767</X>
+        <Y>234.03458100086664</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588109316">
+        <X>983.12935983522209</X>
+        <Y>234.77564097586838</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588142633">
+        <X>982.81837609575052</X>
+        <Y>235.41083524015562</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588176046">
+        <X>982.31190978669031</X>
+        <Y>236.34261756679959</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588209377">
+        <X>981.77150777436918</X>
+        <Y>237.54456404644563</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588242727">
+        <X>981.21931889871007</X>
+        <Y>239.00950283275677</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588275947">
+        <X>980.57979390331388</X>
+        <Y>240.31167064281109</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588309324">
+        <X>979.94628518492812</X>
+        <Y>241.47676815707024</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588342728">
+        <X>979.376127338381</X>
+        <Y>242.66186494251792</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588376029">
+        <X>978.86027023912413</X>
+        <Y>243.76641154577675</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588409311">
+        <X>978.23386144833057</X>
+        <Y>244.77054482146662</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588442596">
+        <X>977.66192298717135</X>
+        <Y>245.68736216014</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588476049">
+        <X>977.137646064442</X>
+        <Y>246.64165069575626</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588509283">
+        <X>976.655311295531</X>
+        <Y>247.67168875811689</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588542711">
+        <X>976.21007920115153</X>
+        <Y>248.62601523329531</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588575966">
+        <X>975.86659303070132</X>
+        <Y>249.71666290289477</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588609252">
+        <X>975.58972571527465</X>
+        <Y>250.72940716752285</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588642605">
+        <X>975.35422636689441</X>
+        <Y>251.67230700010762</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588675963">
+        <X>975.28681920191173</X>
+        <Y>252.89477182199218</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588709257">
+        <X>973.74493213727771</X>
+        <Y>293.86949251305083</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588742640">
+        <X>973.74493213727771</X>
+        <Y>293.86949251305083</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588775949">
+        <X>973.7449321372776</X>
+        <Y>293.86949251305083</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588809345">
+        <X>975.04741282874386</X>
+        <Y>295.541145430083</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588842587">
+        <X>976.23120203792655</X>
+        <Y>297.23234199015405</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588875965">
+        <X>977.38690376348427</X>
+        <Y>298.43451166433908</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588909328">
+        <X>978.48213496608946</X>
+        <Y>299.29320428875695</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588942528">
+        <X>979.30355836804335</X>
+        <Y>299.93722375707034</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13588976010">
+        <X>979.94244323622968</X>
+        <Y>300.43812778798076</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589009351">
+        <X>980.49690563315028</X>
+        <Y>300.77644355621436</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589042579">
+        <X>980.95055668517614</X>
+        <Y>300.82579509744937</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589076010">
+        <X>981.32859922853106</X>
+        <Y>300.6058084677357</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589109325">
+        <X>981.64848138060074</X>
+        <Y>300.4196659349011</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589142562">
+        <X>981.92266608237469</X>
+        <Y>300.26011519247146</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589175826">
+        <X>982.23544058857271</X>
+        <Y>300.15790461141154</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589209197">
+        <X>1117.9186796411154</X>
+        <Y>524.20695553608937</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589242572">
+        <X>1147.8928477040711</X>
+        <Y>707.12355055112175</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589275917">
+        <X>1154.1300076064472</X>
+        <Y>714.71985613160109</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589309269">
+        <X>1156.2090609072391</X>
+        <Y>717.25195799176083</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589342627">
+        <X>1157.2485875576349</X>
+        <Y>718.51800892184076</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589375818">
+        <X>1208.1719412372895</X>
+        <Y>762.20779552573606</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589409184">
+        <X>1208.1719412372895</X>
+        <Y>762.20779552573606</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589442487">
+        <X>1208.1719412372895</X>
+        <Y>762.20779552573606</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589475934">
+        <X>1208.1719412372895</X>
+        <Y>762.20777617627118</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589509293">
+        <X>1208.1719412372895</X>
+        <Y>762.20776456659223</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589542608">
+        <X>1208.1719412372895</X>
+        <Y>762.2077568268063</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589575866">
+        <X>1208.1719412372895</X>
+        <Y>762.17405111049675</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589609207">
+        <X>1208.4159228466669</X>
+        <Y>762.14877182326461</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589642456">
+        <X>1209.216845920927</X>
+        <Y>762.12911015541727</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589675948">
+        <X>1209.8575843803351</X>
+        <Y>762.11338082113946</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589709165">
+        <X>1210.3818249380324</X>
+        <Y>762.10051136582126</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589742599">
+        <X>1210.7933025139737</X>
+        <Y>761.96282105741966</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="4">
+    <eyeData>
+      <EyeDataList TimeStamp="13589775748">
+        <X>1211.1401250797267</X>
+        <Y>761.8143721537582</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589809000">
+        <X>1211.4374015646579</X>
+        <Y>761.43302524441242</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589842358">
+        <X>1211.6950411849316</X>
+        <Y>760.93565160406467</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589875709">
+        <X>1211.920475852671</X>
+        <Y>760.40414209871528</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589909227">
+        <X>1212.1193887947941</X>
+        <Y>759.86222374094666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589942531">
+        <X>1212.2962002989034</X>
+        <Y>759.280895365864</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13589975691">
+        <X>1212.4235384278236</X>
+        <Y>758.72329899325143</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590009116">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590042370">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590075886">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590109197">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590142387">
+        <X>1212.3439863947472</X>
+        <Y>758.1545966399807</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590175812">
+        <X>1212.1858057264703</X>
+        <Y>757.60738950779307</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590209194">
+        <X>956.63701212485864</X>
+        <Y>280.06460621024269</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590242438">
+        <X>956.63701212485864</X>
+        <Y>280.06460621024269</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590275855">
+        <X>956.63701212485853</X>
+        <Y>280.06460621024269</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590309211">
+        <X>956.63701212485864</X>
+        <Y>280.07926996792742</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590342458">
+        <X>956.63701212485876</X>
+        <Y>281.17307333659966</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590375785">
+        <X>954.09371885153428</X>
+        <Y>282.91764095756469</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590409118">
+        <X>952.27708079915953</X>
+        <Y>284.16376068682541</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590442480">
+        <X>950.91460225987862</X>
+        <Y>285.09835048377096</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590475864">
+        <X>949.8548967293267</X>
+        <Y>285.82525365917303</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590509210">
+        <X>949.0071323048852</X>
+        <Y>286.40677619949469</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590542497">
+        <X>948.28024305254473</X>
+        <Y>286.88256736884875</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590575807">
+        <X>947.36602123727675</X>
+        <Y>287.27906000997712</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590609168">
+        <X>946.514942650663</X>
+        <Y>287.81504341760007</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590642431">
+        <X>945.67885268256873</X>
+        <Y>288.28286367054358</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590675688">
+        <X>944.954241376887</X>
+        <Y>288.9385213783018</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590709206">
+        <X>944.32020648441551</X>
+        <Y>289.51222187259026</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590742477">
+        <X>943.7607639322348</X>
+        <Y>290.01842819108003</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590775740">
+        <X>943.26348166362959</X>
+        <Y>290.46838936307097</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590809145">
+        <X>942.81854489698287</X>
+        <Y>290.87098620116814</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590842498">
+        <X>942.41810180700077</X>
+        <Y>291.23332335545552</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590875783">
+        <X>942.05579615415979</X>
+        <Y>291.56115220933464</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590909001">
+        <X>941.34292436319686</X>
+        <Y>291.95009535470911</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590942359">
+        <X>940.69181478326</X>
+        <Y>292.30521735700751</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13590975820">
+        <X>940.03415430535108</X>
+        <Y>292.63074585911443</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591009136">
+        <X>939.40797835688909</X>
+        <Y>292.93023208105274</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591042459">
+        <X>938.78632989241873</X>
+        <Y>293.20668090130351</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591075781">
+        <X>938.17410897281638</X>
+        <Y>293.46265203116531</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591109142">
+        <X>910.77315661726459</X>
+        <Y>380.38508572870705</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591142282">
+        <X>779.48320413184365</X>
+        <Y>768.593506734707</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591175649">
+        <X>772.37922954265377</X>
+        <Y>770.5466643151691</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591208909">
+        <X>767.90506897037744</X>
+        <Y>771.19771684198975</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591242437">
+        <X>764.559232386482</X>
+        <Y>771.52324310540007</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591275716">
+        <X>762.48248451025552</X>
+        <Y>772.40060209906881</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591309090">
+        <X>758.32199896833185</X>
+        <Y>772.985508094848</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591342441">
+        <X>755.35022358124354</X>
+        <Y>773.40329809183311</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591375724">
+        <X>753.12139204092728</X>
+        <Y>773.68624266832956</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591408959">
+        <X>749.91475865303585</X>
+        <Y>773.881582796648</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591442427">
+        <X>747.34945194272279</X>
+        <Y>774.03785489930283</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591475745">
+        <X>745.25056463428473</X>
+        <Y>774.165713892384</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591509074">
+        <X>700.194449610382</X>
+        <Y>772.86791002347047</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591542383">
+        <X>699.615159016513</X>
+        <Y>772.5212969473223</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591575685">
+        <X>695.8011114044898</X>
+        <Y>771.72458843849586</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591609041">
+        <X>692.05917874265333</X>
+        <Y>770.275617018552</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591642268">
+        <X>689.14258791472628</X>
+        <Y>769.05867734322021</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591675726">
+        <X>686.28292637223853</X>
+        <Y>768.11687369240371</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591708897">
+        <X>684.22789644479656</X>
+        <Y>766.71001940481813</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591742278">
+        <X>682.686623999215</X>
+        <Y>765.654878689129</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591775640">
+        <X>681.48785654154062</X>
+        <Y>764.83421368803738</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591808863">
+        <X>957.25907384145034</X>
+        <Y>755.60595567942914</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591842271">
+        <X>962.46390233406873</X>
+        <Y>755.60595567942914</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591875715">
+        <X>964.19884516494153</X>
+        <Y>755.60595567942914</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591908956">
+        <X>965.066316580378</X>
+        <Y>755.60595567942914</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591942370">
+        <X>965.58679942963988</X>
+        <Y>755.94189356884613</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13591975589">
+        <X>965.93378799581444</X>
+        <Y>756.17242005688888</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592009023">
+        <X>966.18163697165323</X>
+        <Y>756.33708183406213</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592042357">
+        <X>966.2813566544994</X>
+        <Y>756.46057816694213</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592075687">
+        <X>966.35891640782415</X>
+        <Y>756.787215235316</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592109030">
+        <X>966.420964210484</X>
+        <Y>757.15900244764589</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592142287">
+        <X>966.47173059447846</X>
+        <Y>757.46319198500669</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592175637">
+        <X>905.50555887921678</X>
+        <Y>760.50508735861524</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592208838">
+        <X>905.50555887921678</X>
+        <Y>760.50508735861524</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592242356">
+        <X>905.50555887921678</X>
+        <Y>760.46784495129873</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592275703">
+        <X>904.73497304780426</X>
+        <Y>760.44922374764064</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592308991">
+        <X>904.27262154895686</X>
+        <Y>760.4380510254457</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592342318">
+        <X>903.96438721639186</X>
+        <Y>760.14234773575</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592375653">
+        <X>901.95419810230987</X>
+        <Y>759.93113110025308</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592408850">
+        <X>900.30088744187822</X>
+        <Y>759.77271862363045</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592442310">
+        <X>898.76653947821887</X>
+        <Y>759.64950891959052</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592475589">
+        <X>897.28706122185974</X>
+        <Y>759.5509411563587</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592508984">
+        <X>896.06742940489755</X>
+        <Y>759.47029480462345</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592542334">
+        <X>894.58319865008355</X>
+        <Y>759.38935136573116</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="5">
+    <eyeData>
+      <EyeDataList TimeStamp="13592575653">
+        <X>893.327311088318</X>
+        <Y>759.32086076359155</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592608747">
+        <X>892.250836035376</X>
+        <Y>759.26215453318616</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592642145">
+        <X>891.33912329399539</X>
+        <Y>759.22095558065291</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592675519">
+        <X>890.60933303800277</X>
+        <Y>759.22992649332548</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592708718">
+        <X>890.07143530832013</X>
+        <Y>759.29000519967349</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592742174">
+        <X>889.634570149093</X>
+        <Y>759.36296281367652</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592775613">
+        <X>889.43905262292537</X>
+        <Y>759.428240678837</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592808936">
+        <X>889.26308684937453</X>
+        <Y>759.48699075748164</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592842294">
+        <X>889.10387972092371</X>
+        <Y>759.55077405496718</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592875514">
+        <X>889.16600244774111</X>
+        <Y>759.63210116314053</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592908842">
+        <X>889.39359963009019</X>
+        <Y>759.741315804593</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592942181">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13592975452">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593008892">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593042090">
+        <X>889.60223038057688</X>
+        <Y>759.84142922592446</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593075521">
+        <X>889.79417067102452</X>
+        <Y>759.93353357354931</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593108793">
+        <X>894.40073764176987</X>
+        <Y>323.27704087156485</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593142017">
+        <X>899.91469794588613</X>
+        <Y>323.27704087156485</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593175562">
+        <X>901.752684713925</X>
+        <Y>323.27704087156485</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593208800">
+        <X>902.67167809794432</X>
+        <Y>322.80828641145661</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593242078">
+        <X>903.71876056029851</X>
+        <Y>322.52703373539168</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593275492">
+        <X>907.78840075803441</X>
+        <Y>322.33953195134842</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593308902">
+        <X>910.69528661355992</X>
+        <Y>321.86727826188206</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593342280">
+        <X>912.87545100520413</X>
+        <Y>321.40873952077015</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593375534">
+        <X>914.4691189793358</X>
+        <Y>321.05209827768306</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593408781">
+        <X>915.74405335864128</X>
+        <Y>320.76678528321338</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593442149">
+        <X>916.78718148716382</X>
+        <Y>320.28529193327569</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593475423">
+        <X>917.65645492759927</X>
+        <Y>319.8840474749943</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593508897">
+        <X>917.46061082808853</X>
+        <Y>319.54453293337161</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593542234">
+        <X>917.29274445707927</X>
+        <Y>319.2535204691236</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593575585">
+        <X>917.14726026887138</X>
+        <Y>318.82831633046186</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593608792">
+        <X>917.11254834388933</X>
+        <Y>318.45626270913283</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593642069">
+        <X>917.08192017478746</X>
+        <Y>318.1279801020778</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593675521">
+        <X>917.0546951355858</X>
+        <Y>317.83617334025109</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593708746">
+        <X>917.03033588998437</X>
+        <Y>317.57508307966935</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593742182">
+        <X>917.00841256894307</X>
+        <Y>317.34010184514574</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593775463">
+        <X>917.3224954124928</X>
+        <Y>317.12749977581484</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593808867">
+        <X>917.60802527026544</X>
+        <Y>316.93422516733227</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593842177">
+        <X>917.86872644475341</X>
+        <Y>316.75775704654382</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593875504">
+        <X>918.10770252136751</X>
+        <Y>316.59599460248774</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593908743">
+        <X>918.32756051185231</X>
+        <Y>316.4471731539561</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593942071">
+        <X>919.49363344154256</X>
+        <Y>316.3097995091577</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13593975545">
+        <X>1024.954742250517</X>
+        <Y>526.15126060229477</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594008765">
+        <X>1024.954742250517</X>
+        <Y>766.07571640821857</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594042022">
+        <X>1024.954742250517</X>
+        <Y>766.07571640821857</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594075484">
+        <X>1026.637302378341</X>
+        <Y>766.07571640821857</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594108759">
+        <X>1027.4785824422531</X>
+        <Y>767.14013218619971</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594141960">
+        <X>1027.9833504806004</X>
+        <Y>767.7787816529883</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594175254">
+        <X>1029.5677843113597</X>
+        <Y>768.20454796418085</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594208707">
+        <X>1031.3459256537637</X>
+        <Y>768.57862792859339</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594242141">
+        <X>1032.6979758818229</X>
+        <Y>768.97391258705159</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594275472">
+        <X>1033.7495705036467</X>
+        <Y>769.42363264144171</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594308722">
+        <X>1034.5908462011059</X>
+        <Y>769.78340868495388</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594342146">
+        <X>1035.2791626808451</X>
+        <Y>770.07777090237289</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594375475">
+        <X>1035.8527597472944</X>
+        <Y>770.81607313522215</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594408695">
+        <X>1036.3381111112133</X>
+        <Y>771.44079040917143</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594442066">
+        <X>1036.7541265660009</X>
+        <Y>771.9762623582709</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594475338">
+        <X>1037.1146732934833</X>
+        <Y>772.4403380474904</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594508711">
+        <X>1037.4301516800304</X>
+        <Y>772.84640427555746</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594542126">
+        <X>1037.7085149622778</X>
+        <Y>773.07569596793041</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="6">
+    <eyeData>
+      <EyeDataList TimeStamp="13594575431">
+        <X>1037.9559489909423</X>
+        <Y>773.27951080559524</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594608709">
+        <X>1038.1955354683494</X>
+        <Y>773.46187144982162</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594641858">
+        <X>1038.4111632980157</X>
+        <Y>773.52961080776436</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594675450">
+        <X>1038.6062551439045</X>
+        <Y>773.31426655988253</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594708592">
+        <X>1038.8376573071419</X>
+        <Y>773.11849906180817</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594742090">
+        <X>1039.3637305376305</X>
+        <Y>772.93975482443591</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594775463">
+        <X>1039.8459643322451</X>
+        <Y>772.77590594017806</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594808635">
+        <X>1040.2896194232903</X>
+        <Y>772.6251649666608</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594842106">
+        <X>1040.8080053637066</X>
+        <Y>772.48601945264488</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594875410">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594908754">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594942072">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13594975280">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595008741">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595041960">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595075397">
+        <X>1042.5946523531782</X>
+        <Y>772.85969818218325</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595108643">
+        <X>1043.5452616027831</X>
+        <Y>772.9769647899443</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595141930">
+        <X>882.79461937314659</X>
+        <Y>769.007381602247</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595175267">
+        <X>882.79461937314659</X>
+        <Y>764.7194530752181</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595208719">
+        <X>882.79461937314659</X>
+        <Y>763.29014356620848</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595241960">
+        <X>884.23281461991223</X>
+        <Y>762.57548881170374</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595275406">
+        <X>885.09573176797164</X>
+        <Y>762.14669595900091</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595308634">
+        <X>885.67100986667788</X>
+        <Y>761.8608340571991</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595342049">
+        <X>886.1982025417667</X>
+        <Y>761.65664698448336</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595375356">
+        <X>886.59359704808332</X>
+        <Y>761.50350667994655</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595408617">
+        <X>886.90112610855181</X>
+        <Y>761.38439755419574</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595441862">
+        <X>883.713566842403</X>
+        <Y>761.0447397766095</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595475236">
+        <X>881.105563806463</X>
+        <Y>760.67321009218745</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595508682">
+        <X>878.93222794317967</X>
+        <Y>760.12278459818424</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595541971">
+        <X>836.33497174179581</X>
+        <Y>754.06810416414828</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595575343">
+        <X>834.87373217937443</X>
+        <Y>754.06810416414828</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595608676">
+        <X>834.38665232523385</X>
+        <Y>754.06810416414828</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595641893">
+        <X>834.14311239816379</X>
+        <Y>753.77492070057633</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595675256">
+        <X>832.83805464364673</X>
+        <Y>753.51232680951932</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595708472">
+        <X>831.93700493544907</X>
+        <Y>753.33726421548124</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595741786">
+        <X>830.55140268513946</X>
+        <Y>753.212219505454</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595775232">
+        <X>829.51220099740726</X>
+        <Y>752.59115498361018</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595808666">
+        <X>828.70393301806</X>
+        <Y>752.10810479995394</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595841881">
+        <X>827.81364982365119</X>
+        <Y>751.72166465302894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595875368">
+        <X>826.86436662825963</X>
+        <Y>751.34062449815167</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595908461">
+        <X>826.07329729876676</X>
+        <Y>751.02309103575408</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595941993">
+        <X>825.403930943042</X>
+        <Y>750.75440887526383</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13595975327">
+        <X>824.58184958681613</X>
+        <Y>750.427175199231</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596008541">
+        <X>823.815691495757</X>
+        <Y>750.14357268000242</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596041901">
+        <X>822.95318318535772</X>
+        <Y>749.8954204756775</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596075305">
+        <X>822.19214644088765</X>
+        <Y>749.676462648332</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596108645">
+        <X>821.515669334692</X>
+        <Y>749.48183346846918</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596141837">
+        <X>820.910400344938</X>
+        <Y>749.30769157069733</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596175186">
+        <X>820.36565825415937</X>
+        <Y>749.15096386270261</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596208584">
+        <X>904.03994845254761</X>
+        <Y>481.00943290814064</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596241915">
+        <X>914.43445293690775</X>
+        <Y>349.28226629401865</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596275295">
+        <X>914.43445293690775</X>
+        <Y>341.780055725505</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596308518">
+        <X>914.43445293690775</X>
+        <Y>339.03169023028812</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596341943">
+        <X>915.50712792412332</X>
+        <Y>337.65750748267965</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596375269">
+        <X>916.2488391458412</X>
+        <Y>336.83299783411462</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596408504">
+        <X>916.74331329365316</X>
+        <Y>336.28332473507123</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596441814">
+        <X>917.09650911351878</X>
+        <Y>335.89070109289736</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596475144">
+        <X>917.361405978418</X>
+        <Y>334.95687656796741</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596508636">
+        <X>917.5674368733396</X>
+        <Y>334.05916081047434</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="7">
+    <eyeData>
+      <EyeDataList TimeStamp="13596541700">
+        <X>917.91605463707606</X>
+        <Y>333.34098820447986</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596575254">
+        <X>918.26102005751022</X>
+        <Y>332.75339243593896</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596608370">
+        <X>918.5484912412054</X>
+        <Y>331.00770436256323</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596641667">
+        <X>918.79173608894746</X>
+        <Y>329.53058368509153</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596675266">
+        <X>919.00023167272639</X>
+        <Y>328.26448024725858</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596708561">
+        <X>903.00720135475672</X>
+        <Y>533.12988889779956</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596741894">
+        <X>862.95353700843</X>
+        <Y>702.71132554714745</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596775148">
+        <X>861.30113080553576</X>
+        <Y>703.96537179755342</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596808497">
+        <X>856.30898029294713</X>
+        <Y>705.01212114559075</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596841903">
+        <X>853.81290503665286</X>
+        <Y>705.53549581960942</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596875206">
+        <X>852.31525988287638</X>
+        <Y>705.84952062402067</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596908437">
+        <X>848.45827910225933</X>
+        <Y>709.49072199920806</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596941843">
+        <X>845.70329283039</X>
+        <Y>712.09158012434193</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13596975080">
+        <X>843.637053126488</X>
+        <Y>714.0422237181923</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597008552">
+        <X>842.02997780123087</X>
+        <Y>716.56577416603</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597041848">
+        <X>840.676195150249</X>
+        <Y>718.58461452430015</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597075224">
+        <X>839.40077718862392</X>
+        <Y>720.23639299924844</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597108554">
+        <X>838.33792888726975</X>
+        <Y>721.61287506170527</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597141820">
+        <X>837.43859570920085</X>
+        <Y>722.777590653015</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597175096">
+        <X>943.2739617664547</X>
+        <Y>476.53134511234236</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597208396">
+        <X>959.60816056672923</X>
+        <Y>410.32532381326394</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597241795">
+        <X>963.01153882416884</X>
+        <Y>410.32532381326394</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597275047">
+        <X>964.14599824331538</X>
+        <Y>410.32532381326394</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597308476">
+        <X>964.7132279528887</X>
+        <Y>408.74936429316733</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597341789">
+        <X>965.05356577863267</X>
+        <Y>407.56723520431092</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597375191">
+        <X>965.28045766246191</X>
+        <Y>406.11901084633882</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597408423">
+        <X>965.44252329376855</X>
+        <Y>404.25709924093917</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597441711">
+        <X>965.53385771012552</X>
+        <Y>402.86066553688943</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597475028">
+        <X>965.59905962115386</X>
+        <Y>401.77455043373959</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597508524">
+        <X>965.57733034496187</X>
+        <Y>400.90565835121981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597541764">
+        <X>965.5595518462593</X>
+        <Y>400.19474664733991</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597575130">
+        <X>965.54473643067388</X>
+        <Y>399.3496565547332</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597608489">
+        <X>965.51637315208632</X>
+        <Y>398.06740635145314</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597641740">
+        <X>965.49206177043993</X>
+        <Y>396.96833474864167</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597675078">
+        <X>965.4709919063464</X>
+        <Y>396.01580602620504</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597708462">
+        <X>965.57430589704143</X>
+        <Y>393.93220182592728</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597741806">
+        <X>965.858609303978</X>
+        <Y>391.90285985763978</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597775138">
+        <X>966.1113234434772</X>
+        <Y>390.09900033027304</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597808462">
+        <X>966.33743609460794</X>
+        <Y>388.48502075315542</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597841804">
+        <X>966.54093748062564</X>
+        <Y>387.03243913374962</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597875138">
+        <X>966.80786541007808</X>
+        <Y>385.71819862095384</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597908471">
+        <X>967.07716261695464</X>
+        <Y>384.18149045952219</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597941723">
+        <X>967.35651936422812</X>
+        <Y>382.709584098047</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13597975051">
+        <X>967.6831844573627</X>
+        <Y>381.360336600028</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598008417">
+        <X>967.98827089914107</X>
+        <Y>380.11902890185053</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598041747">
+        <X>968.30014186205517</X>
+        <Y>379.03022649845025</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598075013">
+        <X>1099.1939159185947</X>
+        <Y>505.29866304469954</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598108455">
+        <X>1099.1939159185947</X>
+        <Y>787.73457994396267</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598141795">
+        <X>1099.1939159185947</X>
+        <Y>787.73457994396267</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598174998">
+        <X>1096.0369250839085</X>
+        <Y>787.73457994396267</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598208404">
+        <X>1094.4584296665653</X>
+        <Y>787.73457994396267</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598241731">
+        <X>1093.5113324161594</X>
+        <Y>787.73457994396267</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598275083">
+        <X>1093.4454031907135</X>
+        <Y>787.73457994396279</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598308442">
+        <X>1094.0895006826731</X>
+        <Y>787.55474565019</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598341758">
+        <X>1094.9782572821205</X>
+        <Y>786.88092057931215</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598375021">
+        <X>1096.8126732233329</X>
+        <Y>786.29028820719941</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598408397">
+        <X>1098.2802059763028</X>
+        <Y>785.81778230950931</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="8">
+    <eyeData>
+      <EyeDataList TimeStamp="13598441653">
+        <X>1099.4809145923691</X>
+        <Y>785.43118657503555</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598475088">
+        <X>1100.6821508450821</X>
+        <Y>784.73286368739457</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598508170">
+        <X>1102.1318534116138</X>
+        <Y>784.13345421676979</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598541580">
+        <X>1103.457055046355</X>
+        <Y>783.53384528971708</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598574962">
+        <X>1104.7404671176091</X>
+        <Y>783.01418421960466</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598608386">
+        <X>1106.1198997566062</X>
+        <Y>782.55948078325628</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598641665">
+        <X>1107.4350756944284</X>
+        <Y>782.0475918755</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598675050">
+        <X>1108.6041209724924</X>
+        <Y>781.59257951304994</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598708277">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598741584">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598775067">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598808362">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598841632">
+        <X>1109.6501088528655</X>
+        <Y>781.18546318875246</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598874937">
+        <X>1108.435420187408</X>
+        <Y>780.10149547388812</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598908272">
+        <X>916.79870920435394</X>
+        <Y>452.98382222883237</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598941520">
+        <X>916.79870920435394</X>
+        <Y>450.50228571415096</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13598975018">
+        <X>916.79870920435383</X>
+        <Y>449.6751068759238</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599008326">
+        <X>911.82455376955727</X>
+        <Y>449.26151745681022</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599041677">
+        <X>908.84006050867947</X>
+        <Y>448.34895352648931</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599074937">
+        <X>906.85039833476094</X>
+        <Y>447.740577572942</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599108351">
+        <X>905.71238005377745</X>
+        <Y>447.30602332040826</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599141597">
+        <X>938.003381726891</X>
+        <Y>598.751465822477</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599174909">
+        <X>938.003381726891</X>
+        <Y>704.6864089981666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599208336">
+        <X>938.003381726891</X>
+        <Y>704.6864089981666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599241602">
+        <X>940.49474550490822</X>
+        <Y>704.6864089981666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599274911">
+        <X>941.74042739391689</X>
+        <Y>704.6864089981666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599308319">
+        <X>942.4878365273222</X>
+        <Y>704.6864089981666</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599341572">
+        <X>944.36069549663125</X>
+        <Y>709.96576371762319</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599374928">
+        <X>945.69845190328044</X>
+        <Y>713.73673137437788</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599408218">
+        <X>946.70176920826748</X>
+        <Y>716.5649571169439</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599441536">
+        <X>948.21727301893463</X>
+        <Y>718.76468825005077</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599474952">
+        <X>949.54366659417963</X>
+        <Y>721.45650822656853</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599508307">
+        <X>950.68717429407479</X>
+        <Y>723.95816514445835</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599541632">
+        <X>951.64009737732067</X>
+        <Y>726.04287924269988</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599574960">
+        <X>952.446416909298</X>
+        <Y>727.80686809505812</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599608314">
+        <X>953.15824255389714</X>
+        <Y>729.72880555156576</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599641528">
+        <X>954.17696362210518</X>
+        <Y>731.5803776987434</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599674863">
+        <X>955.06834455678722</X>
+        <Y>733.23398201648058</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599708249">
+        <X>955.85485714621257</X>
+        <Y>734.693044649778</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599741521">
+        <X>956.55397944792389</X>
+        <Y>735.98998921270913</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599774865">
+        <X>957.21996071000092</X>
+        <Y>737.2329460012121</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599808121">
+        <X>957.81934384587032</X>
+        <Y>738.43997115665206</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599841635">
+        <X>958.36164287356166</X>
+        <Y>739.53204153538354</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599874944">
+        <X>958.85464198964485</X>
+        <Y>740.52483278877583</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599908274">
+        <X>959.30477161737292</X>
+        <Y>741.20430439842426</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599941471">
+        <X>952.58587702280511</X>
+        <Y>397.78610450063894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13599974865">
+        <X>952.58587702280511</X>
+        <Y>397.78610450063894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600008256">
+        <X>952.58587702280511</X>
+        <Y>397.78610450063888</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600041494">
+        <X>952.58587702280511</X>
+        <Y>397.78610450063888</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="9">
+    <eyeData>
+      <EyeDataList TimeStamp="13600074645">
+        <X>952.58587702280522</X>
+        <Y>397.78610450063894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600107979">
+        <X>952.58587702280522</X>
+        <Y>397.78610450063894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600141482">
+        <X>952.58587702280522</X>
+        <Y>397.78610450063894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600174804">
+        <X>966.2348010301464</X>
+        <Y>440.91484635890743</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600208193">
+        <X>977.96447100301134</X>
+        <Y>764.34975668990273</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600241385">
+        <X>985.42590854741229</X>
+        <Y>767.06376750971435</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600274808">
+        <X>990.0944265150041</X>
+        <Y>771.23130683689965</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600308127">
+        <X>992.42868549880006</X>
+        <Y>774.21746301168685</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600341467">
+        <X>993.82924088907771</X>
+        <Y>776.79895566394021</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600374758">
+        <X>996.39725621229866</X>
+        <Y>778.76607643218711</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600408200">
+        <X>998.79010443573657</X>
+        <Y>780.17116269522057</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600441397">
+        <X>1000.584740603315</X>
+        <Y>781.2249773924957</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600474827">
+        <X>1001.9805687336539</X>
+        <Y>782.0446110459319</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600508032">
+        <X>1002.8644873523548</X>
+        <Y>782.70031796868091</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600541411">
+        <X>1003.1266687607924</X>
+        <Y>783.23680545093009</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600574826">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600608184">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600641312">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600674732">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600708119">
+        <X>1003.2894767653839</X>
+        <Y>783.6838783528043</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600741495">
+        <X>1002.9081726881295</X>
+        <Y>783.95664713064377</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600774862">
+        <X>918.77466982024748</X>
+        <Y>783.47161180395449</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600808202">
+        <X>918.77466982024748</X>
+        <Y>778.641796647415</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600841462">
+        <X>918.77466982024748</X>
+        <Y>774.015373364782</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600874809">
+        <X>918.77466982024748</X>
+        <Y>771.70216172346545</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600907990">
+        <X>918.77466982024748</X>
+        <Y>770.31423473867562</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600941503">
+        <X>767.75647140978879</X>
+        <Y>748.04720830230508</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13600974820">
+        <X>767.75647140978879</X>
+        <Y>748.04720830230508</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601008013">
+        <X>767.75647140978879</X>
+        <Y>748.04720830230508</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601041482">
+        <X>767.75647140978879</X>
+        <Y>747.236331871934</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601074807">
+        <X>767.75647140978879</X>
+        <Y>746.74980601371135</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601108119">
+        <X>767.75647140978879</X>
+        <Y>746.42545544156292</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601141212">
+        <X>765.47953217904035</X>
+        <Y>746.19377646145688</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601174558">
+        <X>760.85041711856911</X>
+        <Y>746.02001722637738</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601207892">
+        <X>757.24999429375816</X>
+        <Y>745.88487115464886</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601241402">
+        <X>754.36965603390956</X>
+        <Y>745.62230083527106</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601274775">
+        <X>752.01301563948789</X>
+        <Y>745.407470573962</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601308089">
+        <X>749.76234922041681</X>
+        <Y>745.22844535620436</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601341331">
+        <X>747.74306354830844</X>
+        <Y>745.14069074554664</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601374802">
+        <X>745.8411773233745</X>
+        <Y>745.07512076194359</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601407933">
+        <X>744.02122023813649</X>
+        <Y>745.02346412473685</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601441417">
+        <X>742.41663367537683</X>
+        <Y>744.978264567181</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601474746">
+        <X>740.86278409499425</X>
+        <Y>744.93838260463167</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601508104">
+        <X>739.48158446798743</X>
+        <Y>744.89408420175971</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601541422">
+        <X>738.24577427540248</X>
+        <Y>744.84587952038032</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601574774">
+        <X>737.15805495809286</X>
+        <Y>744.79955574383678</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601608091">
+        <X>879.12095391748107</X>
+        <Y>581.71237449142291</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="10">
+    <eyeData>
+      <EyeDataList TimeStamp="13601641243">
+        <X>906.00864813466615</X>
+        <Y>382.89515922420964</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601674786">
+        <X>912.72931254685307</X>
+        <Y>382.89515922420964</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601708070">
+        <X>915.2545600978201</X>
+        <Y>382.89515922420964</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601741391">
+        <X>916.51718387330357</X>
+        <Y>382.48674635184841</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601774624">
+        <X>917.27475813859371</X>
+        <Y>381.77868889411263</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601807817">
+        <X>918.12602520715234</X>
+        <Y>381.30665058895545</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601841253">
+        <X>918.73407311326559</X>
+        <Y>380.969480370986</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601874618">
+        <X>919.19010904285051</X>
+        <Y>380.71660270750897</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601907928">
+        <X>919.81878333086831</X>
+        <Y>380.51992008036012</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601941366">
+        <X>920.32172276128267</X>
+        <Y>379.93779922048191</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13601974560">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602007977">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602041345">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602074641">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602107974">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602141292">
+        <X>920.73321865889432</X>
+        <Y>379.46151851694515</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602174690">
+        <X>921.1379901807112</X>
+        <Y>379.06461793066455</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602207864">
+        <X>1026.3377695566906</X>
+        <Y>374.69871148157767</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602241381">
+        <X>1026.3377695566906</X>
+        <Y>374.69871148157767</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602274636">
+        <X>1026.3377695566906</X>
+        <Y>376.94119701658087</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602308041">
+        <X>1027.14910761405</X>
+        <Y>381.1065601190287</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602341316">
+        <X>1075.6202528636836</X>
+        <Y>551.74002814854362</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602374603">
+        <X>1075.6202528636836</X>
+        <Y>718.58946080230157</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602407902">
+        <X>1075.6202528636836</X>
+        <Y>718.58946080230157</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602441234">
+        <X>1074.0214289296291</X>
+        <Y>718.58946080230157</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602474698">
+        <X>943.88158613398991</X>
+        <Y>749.446800458423</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602508004">
+        <X>943.88158613398991</X>
+        <Y>756.915725059474</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602541355">
+        <X>943.88158613398991</X>
+        <Y>759.40536659315762</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602574664">
+        <X>943.88158613398991</X>
+        <Y>760.65018735999934</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602607910">
+        <X>943.88158613398991</X>
+        <Y>761.71621919571749</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602641161">
+        <X>941.56389653475867</X>
+        <Y>762.42690708619614</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602674559">
+        <X>938.99089263108146</X>
+        <Y>762.93454129368081</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602707986">
+        <X>936.86453655553271</X>
+        <Y>763.31526694929437</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602741306">
+        <X>935.02322915715922</X>
+        <Y>763.61138690366045</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602774552">
+        <X>933.37031129596073</X>
+        <Y>764.05767359270192</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602807826">
+        <X>931.71475318660339</X>
+        <Y>764.42281724737222</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602841176">
+        <X>929.80703064261888</X>
+        <Y>764.72710362626412</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602874647">
+        <X>928.15222506534315</X>
+        <Y>764.76899260013533</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602907947">
+        <X>926.44450466785781</X>
+        <Y>764.80009686298615</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602941299">
+        <X>924.8392780434707</X>
+        <Y>764.82705389079013</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13602974624">
+        <X>923.434704747132</X>
+        <Y>764.85064129011857</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603007941">
+        <X>922.19537536800954</X>
+        <Y>764.79765732434862</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603041267">
+        <X>905.14468799773067</X>
+        <Y>663.68333124223886</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603074612">
+        <X>917.67026338414894</X>
+        <Y>349.51409717602837</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603107941">
+        <X>920.65225608071648</X>
+        <Y>349.51409717602837</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603141193">
+        <X>923.79343782246065</X>
+        <Y>349.51409717602837</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="11">
+    <eyeData>
+      <EyeDataList TimeStamp="13603174482">
+        <X>925.74216335528627</X>
+        <Y>349.920422429625</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603207932">
+        <X>928.50375778210639</X>
+        <Y>350.16421758178291</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603241221">
+        <X>930.34482073331981</X>
+        <Y>350.32674768322158</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603274516">
+        <X>931.65986569847212</X>
+        <Y>350.52966530845686</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603307778">
+        <X>932.84198561182359</X>
+        <Y>350.81035047481816</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603341141">
+        <X>934.2087771384422</X>
+        <Y>351.02866115976582</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603374466">
+        <X>935.40805877895036</X>
+        <Y>351.20330970772403</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603407918">
+        <X>936.38928921209344</X>
+        <Y>351.34620397423521</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603441241">
+        <X>937.2069812397126</X>
+        <Y>351.46528252966124</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603474468">
+        <X>937.898874493852</X>
+        <Y>351.56604130732939</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603507796">
+        <X>938.49192585454284</X>
+        <Y>351.63310416137529</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603541134">
+        <X>939.19195124467922</X>
+        <Y>351.69122530154834</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603574425">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603607803">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603641069">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603674408">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603707664">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603741024">
+        <X>939.80447346104859</X>
+        <Y>351.74208129919981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603774443">
+        <X>940.344934240198</X>
+        <Y>351.786954238304</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603807732">
+        <X>940.82534382166409</X>
+        <Y>351.75336519146583</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603841216">
+        <X>941.2551839735022</X>
+        <Y>351.72331183376849</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603874431">
+        <X>941.64204011015647</X>
+        <Y>351.69626381184094</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603907803">
+        <X>941.99205280522472</X>
+        <Y>351.30522237209755</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603941006">
+        <X>942.31024616437765</X>
+        <Y>350.94973015414905</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13603974409">
+        <X>942.60077053577822</X>
+        <Y>350.62515030297868</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604007829">
+        <X>942.28273219834273</X>
+        <Y>350.14688081817047</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604041195">
+        <X>941.990136927902</X>
+        <Y>349.70687289214686</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604074372">
+        <X>941.72004898595674</X>
+        <Y>349.30071172966353</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604107843">
+        <X>942.31841215290228</X>
+        <Y>348.54135871348427</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604141040">
+        <X>942.68739126626576</X>
+        <Y>347.782005697305</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604174446">
+        <X>942.80861835929591</X>
+        <Y>347.02265268112575</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604207718">
+        <X>943.02276421271722</X>
+        <Y>346.20078808747013</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604241080">
+        <X>943.3375327542775</X>
+        <Y>345.37892349381445</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604274477">
+        <X>943.6523012958379</X>
+        <Y>344.55705890015878</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604307832">
+        <X>944.08107963068278</X>
+        <Y>343.14688093705564</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604341171">
+        <X>944.37690818295687</X>
+        <Y>342.02430746034076</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604374332">
+        <X>944.6908279896985</X>
+        <Y>341.35840370115363</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604407590">
+        <X>944.93456759026458</X>
+        <Y>340.423560714207</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604441079">
+        <X>1149.6547774335725</X>
+        <Y>535.24375668363382</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604474418">
+        <X>1196.4426255400874</X>
+        <Y>705.8239706442273</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604507768">
+        <X>1196.4426255400874</X>
+        <Y>705.8239706442273</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604541182">
+        <X>1196.4426255400874</X>
+        <Y>705.8239706442273</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604574342">
+        <X>1197.706021637764</X>
+        <Y>705.8239706442273</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604607627">
+        <X>1198.4640592963701</X>
+        <Y>705.8239706442273</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604640983">
+        <X>1198.9694177354409</X>
+        <Y>706.59346349250939</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604674464">
+        <X>1199.3303880490628</X>
+        <Y>707.858308945229</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604707788">
+        <X>1199.6011157842793</X>
+        <Y>709.19358783488508</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604741106">
+        <X>1199.8116818005587</X>
+        <Y>710.32497993023981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604774427">
+        <X>1200.2822154586686</X>
+        <Y>711.43739092546525</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604807742">
+        <X>1200.8714983835337</X>
+        <Y>712.57066313748408</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604840972">
+        <X>1201.5220285015637</X>
+        <Y>713.661392491925</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604874354">
+        <X>1202.0724770629738</X>
+        <Y>714.70707456079379</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604907538">
+        <X>1202.5442901156112</X>
+        <Y>715.76507545991</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13604941069">
+        <X>1202.95319476123</X>
+        <Y>716.78222684880711</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="12">
+    <eyeData>
+      <EyeDataList TimeStamp="13604974428">
+        <X>1203.4995040381932</X>
+        <Y>717.78982790487566</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605007756">
+        <X>1203.9815416355139</X>
+        <Y>718.69728427865414</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605040856">
+        <X>1204.4100194997986</X>
+        <Y>719.5039121664571</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605074151">
+        <X>1204.7933944310007</X>
+        <Y>720.22563185554407</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605107733">
+        <X>1205.1699450142319</X>
+        <Y>720.87517957572231</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605140961">
+        <X>1205.5106336371555</X>
+        <Y>721.46286560826445</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605174418">
+        <X>1205.8203505670861</X>
+        <Y>721.97832888864241</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605207620">
+        <X>1206.1031355900661</X>
+        <Y>722.44896927507455</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605241041">
+        <X>1206.3623551944647</X>
+        <Y>722.880389629304</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605274286">
+        <X>1075.8487479673649</X>
+        <Y>687.28100844097253</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605307567">
+        <X>934.15426183620718</X>
+        <Y>429.33488911423831</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605341073">
+        <X>934.15426183620718</X>
+        <Y>425.23099997829343</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605374279">
+        <X>934.15426183620718</X>
+        <Y>423.8630369329785</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605407518">
+        <X>934.15426183620718</X>
+        <Y>423.179055410321</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605440914">
+        <X>934.34458275954466</X>
+        <Y>422.76866649672655</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605474194">
+        <X>934.47146337510287</X>
+        <Y>422.49507388766358</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605507715">
+        <X>934.56209238621591</X>
+        <Y>421.84529276009749</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605541044">
+        <X>933.77376989590277</X>
+        <Y>417.7638544804168</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605574400">
+        <X>933.16063018121474</X>
+        <Y>414.58940248510953</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605607694">
+        <X>932.67011840946441</X>
+        <Y>412.04984088886374</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605640920">
+        <X>931.90936398291774</X>
+        <Y>409.1039610982458</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605674361">
+        <X>930.87261170809643</X>
+        <Y>406.20406366031045</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605707570">
+        <X>929.99535978324764</X>
+        <Y>403.75030428974981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605741018">
+        <X>929.24342956194869</X>
+        <Y>401.64708197212639</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605774338">
+        <X>928.321610795632</X>
+        <Y>398.9824924252132</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605807619">
+        <X>912.66270953217258</X>
+        <Y>358.87354489165489</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605840882">
+        <X>912.66270953217258</X>
+        <Y>358.71989285433722</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605874254">
+        <X>912.66270953217258</X>
+        <Y>358.2882600218835</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605907493">
+        <X>912.50314148400321</X>
+        <Y>357.295965409774</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605940749">
+        <X>911.96047870205086</X>
+        <Y>356.56211811485929</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13605974087">
+        <X>911.59870351408267</X>
+        <Y>356.07288658491615</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606007514">
+        <X>911.34029266553387</X>
+        <Y>355.72343549209961</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606040980">
+        <X>911.1464845291224</X>
+        <Y>354.85512938449205</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606074320">
+        <X>910.99574486746883</X>
+        <Y>354.17978018968614</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606107669">
+        <X>910.87515313814606</X>
+        <Y>353.63950083384145</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606140850">
+        <X>910.77648717779107</X>
+        <Y>353.19745408815032</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606174297">
+        <X>910.75936524818894</X>
+        <Y>352.82908180007439</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606207570">
+        <X>910.74487746160253</X>
+        <Y>352.51738217170248</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606240974">
+        <X>910.73245935881425</X>
+        <Y>352.2502110616694</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606274289">
+        <X>910.72169700306438</X>
+        <Y>352.07143732790013</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606307549">
+        <X>910.728387558491</X>
+        <Y>351.91501031085204</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606340932">
+        <X>910.73429098974975</X>
+        <Y>351.77698647228016</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606374205">
+        <X>910.739538484202</X>
+        <Y>351.65429861577184</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606407513">
+        <X>910.68461400355579</X>
+        <Y>351.563710965606</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606440857">
+        <X>676.58922264485432</X>
+        <Y>621.14352090229227</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606474277">
+        <X>676.58922264485432</X>
+        <Y>713.19820827844615</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606507575">
+        <X>676.58922264485432</X>
+        <Y>720.76241333729308</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606540945">
+        <X>676.58922264485432</X>
+        <Y>724.2513297987075</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606574146">
+        <X>676.58922264485432</X>
+        <Y>727.3140187390926</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606607492">
+        <X>676.58922264485432</X>
+        <Y>729.33532973747992</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606640732">
+        <X>673.67685359097459</X>
+        <Y>731.40477138888116</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606674136">
+        <X>671.59658998106045</X>
+        <Y>733.31708694918973</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606707590">
+        <X>670.03639227362487</X>
+        <Y>734.89850271815908</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606740888">
+        <X>667.8421889753605</X>
+        <Y>736.13405428175543</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606774254">
+        <X>665.98561192873956</X>
+        <Y>737.12249553263257</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606807559">
+        <X>664.03051022167381</X>
+        <Y>737.93122019244106</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606840853">
+        <X>662.2441078484153</X>
+        <Y>739.08315188627432</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="13">
+    <eyeData>
+      <EyeDataList TimeStamp="13606873962">
+        <X>660.71986241878938</X>
+        <Y>740.057863319518</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606907555">
+        <X>659.13657533882042</X>
+        <Y>740.89333026229826</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606940801">
+        <X>657.75888603498151</X>
+        <Y>741.7124331781821</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13606974223">
+        <X>656.5534078941223</X>
+        <Y>742.42914822958051</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607007527">
+        <X>655.48975071101142</X>
+        <Y>743.06154386316723</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607040879">
+        <X>654.554696760643</X>
+        <Y>743.70651342426436</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607074221">
+        <X>653.71806954189219</X>
+        <Y>744.28359145261436</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607107564">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607140702">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607174091">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607207511">
+        <X>652.96510504501657</X>
+        <Y>744.80296167812935</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607240732">
+        <X>652.34216783592194</X>
+        <Y>745.23725328106332</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607274209">
+        <X>908.52777614405534</X>
+        <Y>375.32338513590526</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607307532">
+        <X>908.52777614405534</X>
+        <Y>362.26829601239285</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607340824">
+        <X>908.52777614405534</X>
+        <Y>357.91659963788868</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607374201">
+        <X>910.28660713396278</X>
+        <Y>355.74075145063659</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607407512">
+        <X>911.34190572790726</X>
+        <Y>354.809013570409</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607440688">
+        <X>912.04543812387021</X>
+        <Y>354.18785498359063</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607474075">
+        <X>912.54796126384372</X>
+        <Y>353.74417027872033</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607507510">
+        <X>912.92485361882393</X>
+        <Y>353.41140675006761</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607540792">
+        <X>913.21799211714176</X>
+        <Y>353.030670114756</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607574150">
+        <X>913.45250291579612</X>
+        <Y>352.72608080650673</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607607467">
+        <X>913.54451698241724</X>
+        <Y>352.4768713724846</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607640675">
+        <X>913.62119537126819</X>
+        <Y>351.39739331230447</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607674097">
+        <X>913.6860770849114</X>
+        <Y>350.48398879984438</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607707370">
+        <X>913.74168998231983</X>
+        <Y>349.70107064630719</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607740692">
+        <X>913.78988782674048</X>
+        <Y>349.02254157990825</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607774152">
+        <X>913.83206094060847</X>
+        <Y>348.42882864680917</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607807459">
+        <X>913.86927251166844</X>
+        <Y>347.90496429407472</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607840747">
+        <X>913.90234946372186</X>
+        <Y>347.43930709164408</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607874149">
+        <X>913.93194463134853</X>
+        <Y>346.59264841864967</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607907356">
+        <X>913.95858028221255</X>
+        <Y>345.83065561295467</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607940562">
+        <X>914.00506765223793</X>
+        <Y>345.14123355065925</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13607974115">
+        <X>914.09216454510374</X>
+        <Y>344.43959902631121</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608007460">
+        <X>914.18602523695768</X>
+        <Y>343.79897619973252</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608040766">
+        <X>914.30136350727321</X>
+        <Y>343.21173860870209</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608074117">
+        <X>914.40747471596342</X>
+        <Y>342.67148002495406</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608107336">
+        <X>914.5054235239852</X>
+        <Y>342.17277979380208</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608140651">
+        <X>914.71394905661032</X>
+        <Y>341.71102032051311</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608173906">
+        <X>921.813826898685</X>
+        <Y>567.22152097415824</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608207460">
+        <X>921.813826898685</X>
+        <Y>797.07128612409031</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608240679">
+        <X>921.813826898685</X>
+        <Y>797.07128612409031</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608274112">
+        <X>921.813826898685</X>
+        <Y>797.07128612409019</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608307422">
+        <X>922.399689398006</X>
+        <Y>796.650738922222</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608340733">
+        <X>924.44569039425835</X>
+        <Y>795.63215616682146</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608373976">
+        <X>926.83531629639606</X>
+        <Y>794.504521773369</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608407417">
+        <X>929.23024889100088</X>
+        <Y>793.47379227389888</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608440662">
+        <X>931.47972282038916</X>
+        <Y>792.68178987328656</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608474071">
+        <X>1031.2427751134487</X>
+        <Y>785.69749324509166</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608507401">
+        <X>1031.2427751134487</X>
+        <Y>784.71168638860831</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608540694">
+        <X>1031.2427751134487</X>
+        <Y>783.109641277616</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608573944">
+        <X>1031.830448792568</X>
+        <Y>782.05952816721413</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608607403">
+        <X>1032.8591260330818</X>
+        <Y>780.5516975774874</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608640553">
+        <X>1033.544910860091</X>
+        <Y>778.99564086620853</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608674054">
+        <X>1034.0347571650975</X>
+        <Y>777.72408145152417</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608707390">
+        <X>1035.2043603325626</X>
+        <Y>776.203782022689</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608740637">
+        <X>1036.1140516850353</X>
+        <Y>774.92619226169506</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608773942">
+        <X>1036.8418047670134</X>
+        <Y>773.8645991282234</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608807370">
+        <X>1037.4112162960757</X>
+        <Y>772.87451566910227</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="14">
+    <eyeData>
+      <EyeDataList TimeStamp="13608840701">
+        <X>1037.8857259036276</X>
+        <Y>772.04944611983467</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608873939">
+        <X>1038.2872340330948</X>
+        <Y>771.35131034737753</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608907127">
+        <X>1038.6646483350698</X>
+        <Y>770.57240723045516</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608940648">
+        <X>1038.9917407301148</X>
+        <Y>769.89735786245581</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13608973838">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609007251">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609040686">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609073953">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609107353">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609140568">
+        <X>1039.2779465757792</X>
+        <Y>769.30668966545636</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609173947">
+        <X>1039.530481145483</X>
+        <Y>768.73306235828784</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609207258">
+        <X>1008.6518201754849</X>
+        <Y>409.07003971135174</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609240570">
+        <X>1008.6518201754849</X>
+        <Y>362.07492824056624</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609273874">
+        <X>1008.6518201754849</X>
+        <Y>362.07492824056624</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609307345">
+        <X>1001.9632169242789</X>
+        <Y>362.07492824056624</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609340696">
+        <X>996.71332789357427</X>
+        <Y>360.76406374060514</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609374012">
+        <X>993.56339447515154</X>
+        <Y>359.92919965934846</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609407196">
+        <X>991.46343886286968</X>
+        <Y>359.3726236051773</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609440512">
+        <X>989.96347056838249</X>
+        <Y>358.97506928076933</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609473847">
+        <X>988.48995600878607</X>
+        <Y>358.48206574958141</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609507202">
+        <X>987.32846110631806</X>
+        <Y>358.09861855865745</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609540663">
+        <X>986.39926518434368</X>
+        <Y>357.7918608059183</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609573873">
+        <X>985.63901397545555</X>
+        <Y>357.54087719004076</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609607284">
+        <X>987.256210846117</X>
+        <Y>356.09105973366894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609640477">
+        <X>988.62460819821536</X>
+        <Y>354.86429111673891</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609673869">
+        <X>989.79752021429965</X>
+        <Y>353.81277515937035</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609707188">
+        <X>990.81404396157268</X>
+        <Y>352.90146132965089</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609740483">
+        <X>991.70350224043659</X>
+        <Y>352.10406172864634</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609773943">
+        <X>992.488318368846</X>
+        <Y>351.40047384540708</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609807215">
+        <X>991.83927903996369</X>
+        <Y>351.545573510183</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609840461">
+        <X>991.25855964043728</X>
+        <Y>351.71271625385333</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609873799">
+        <X>990.73591218086358</X>
+        <Y>351.92224569810173</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609907184">
+        <X>893.64693397234794</X>
+        <Y>539.73710218415181</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609940361">
+        <X>836.258490384552</X>
+        <Y>695.35961066694381</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13609973899">
+        <X>836.258490384552</X>
+        <Y>695.35961066694381</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610007262">
+        <X>836.258490384552</X>
+        <Y>695.35961066694381</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610040579">
+        <X>834.47388759937087</X>
+        <Y>695.70177990153366</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610073847">
+        <X>833.40312592826217</X>
+        <Y>696.17899874272655</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610107275">
+        <X>832.6892848141897</X>
+        <Y>696.59223827658968</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610140497">
+        <X>832.17939830413786</X>
+        <Y>696.98994567754721</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610173827">
+        <X>890.29421944098635</X>
+        <Y>712.639321792491</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610207232">
+        <X>890.29421944098635</X>
+        <Y>722.47525536433739</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610240459">
+        <X>890.29421944098635</X>
+        <Y>725.75389988828613</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610273869">
+        <X>892.09075860225289</X>
+        <Y>727.3932221502605</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610307143">
+        <X>893.16868209901281</X>
+        <Y>728.37681550744514</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610340584">
+        <X>893.88729776351943</X>
+        <Y>729.838801156225</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610373848">
+        <X>894.40059466673836</X>
+        <Y>730.95670077013153</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610407148">
+        <X>894.78556734415258</X>
+        <Y>732.24274840623525</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610440565">
+        <X>895.084990537697</X>
+        <Y>733.69118546500806</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610473872">
+        <X>893.19069089717232</X>
+        <Y>734.98797083599982</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610507133">
+        <X>890.67779788457108</X>
+        <Y>736.04897704862935</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610540434">
+        <X>887.85983598577377</X>
+        <Y>736.93314889248734</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610573884">
+        <X>885.05600316909863</X>
+        <Y>737.7500833469378</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610607199">
+        <X>882.41100634080783</X>
+        <Y>738.45031287932386</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610640427">
+        <X>841.23352229747786</X>
+        <Y>747.55329680034231</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610673929">
+        <X>841.23352229747786</X>
+        <Y>747.55329680034231</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610707207">
+        <X>841.23352229747775</X>
+        <Y>747.55329680034231</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+  <SubjectEyeLog SubjectID="3" LogID="15">
+    <eyeData>
+      <EyeDataList TimeStamp="13610740377">
+        <X>841.03181412086167</X>
+        <Y>747.45531293428849</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610773761">
+        <X>840.11067173724859</X>
+        <Y>747.05853323340375</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610807181">
+        <X>839.05184121544642</X>
+        <Y>746.79401343281393</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610840420">
+        <X>838.29553369987343</X>
+        <Y>746.60507071810684</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610873737">
+        <X>837.72830306319372</X>
+        <Y>746.46336368207665</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610907177">
+        <X>837.28712367910941</X>
+        <Y>746.14227355747948</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610940365">
+        <X>836.93418017184206</X>
+        <Y>745.88540145780178</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13610973753">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611007094">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611040504">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611073794">
+        <X>0</X>
+        <Y>0</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611107129">
+        <X>836.64540821135051</X>
+        <Y>745.67523337624732</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611140390">
+        <X>836.4744526908413</X>
+        <Y>745.50009330828527</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611173720">
+        <X>898.88633826256228</X>
+        <Y>362.91640696849981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611207028">
+        <X>898.88633826256228</X>
+        <Y>362.91640696849981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611240409">
+        <X>898.88633826256228</X>
+        <Y>362.91640696849981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611273792">
+        <X>902.490443601283</X>
+        <Y>362.91640696849981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611307145">
+        <X>906.71003454836523</X>
+        <Y>362.91640696849981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611340425">
+        <X>909.52309517975334</X>
+        <Y>362.91640696849987</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611373811">
+        <X>911.53242420217339</X>
+        <Y>362.91640696849981</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611407046">
+        <X>939.557020126483</X>
+        <Y>433.15173097746043</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611440419">
+        <X>957.2957227381994</X>
+        <Y>781.9851786243288</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611473789">
+        <X>971.37380607856915</X>
+        <Y>781.9851786243288</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611507120">
+        <X>976.06650052535906</X>
+        <Y>781.9851786243288</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611540458">
+        <X>978.41284774875407</X>
+        <Y>781.75024257187931</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611573764">
+        <X>982.60617927938563</X>
+        <Y>781.60928094040969</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611607070">
+        <X>985.40173363314</X>
+        <Y>781.51530651942994</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611640351">
+        <X>987.3985581715358</X>
+        <Y>781.09135454262525</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611673787">
+        <X>988.10378543550883</X>
+        <Y>780.64184709827509</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611707102">
+        <X>987.96906363409187</X>
+        <Y>778.16793868800391</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611740323">
+        <X>987.86128619295835</X>
+        <Y>776.168545678259</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611773760">
+        <X>987.77310465021264</X>
+        <Y>773.5570378036507</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611807086">
+        <X>987.699620031258</X>
+        <Y>770.92585900874428</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611840444">
+        <X>987.63744073829639</X>
+        <Y>768.49115560835151</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611873761">
+        <X>986.38904049763141</X>
+        <Y>766.40426697944338</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611906960">
+        <X>868.54616186063</X>
+        <Y>739.27471480363806</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611940399">
+        <X>868.54616186063</X>
+        <Y>738.54760983306244</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13611973669">
+        <X>868.54616186063</X>
+        <Y>737.09253076621985</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612006988">
+        <X>867.99852969267954</X>
+        <Y>736.3649912327985</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612040285">
+        <X>867.66995039190931</X>
+        <Y>735.92846751274578</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612073648">
+        <X>867.45089752472916</X>
+        <Y>735.815630619894</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612107075">
+        <X>872.52430322386522</X>
+        <Y>735.73503283928551</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612140266">
+        <X>876.32935749821729</X>
+        <Y>735.67458450382912</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612173698">
+        <X>879.28884415604659</X>
+        <Y>736.49387499398949</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612206979">
+        <X>881.65643348231015</X>
+        <Y>737.14930738611781</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612240225">
+        <X>927.968509246736</X>
+        <Y>743.04819891527245</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612273609">
+        <X>1017.9047188495561</X>
+        <Y>743.04819891527245</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612307040">
+        <X>1019.4180078970117</X>
+        <Y>743.04819891527245</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612340359">
+        <X>1022.3191003014943</X>
+        <Y>743.04819891527245</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612373685">
+        <X>1023.7696465037355</X>
+        <Y>743.61273680815748</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612406926">
+        <X>1024.6399742250806</X>
+        <Y>743.9514595438884</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612440220">
+        <X>1025.2201927059771</X>
+        <Y>744.17727470104239</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612473527">
+        <X>1026.1193852101617</X>
+        <Y>744.45874672070863</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612506907">
+        <X>1027.3529205757573</X>
+        <Y>744.66985073545834</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612540306">
+        <X>1028.3123369712205</X>
+        <Y>744.83404274693021</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612573640">
+        <X>1029.079870087591</X>
+        <Y>744.96539635610782</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612606897">
+        <X>1030.3926833307082</X>
+        <Y>745.07286749088939</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612640163">
+        <X>1031.4866943666393</X>
+        <Y>745.11790596019944</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612673523">
+        <X>1032.4123960124273</X>
+        <Y>745.15601543423122</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612706902">
+        <X>1033.2058545659597</X>
+        <Y>745.18868069768689</Y>
+      </EyeDataList>
+      <EyeDataList TimeStamp="13612740203">
+        <X>1033.8935186456879</X>
+        <Y>745.20639746389543</Y>
+      </EyeDataList>
+    </eyeData>
+  </SubjectEyeLog>
+</ArrayOfSubjectEyeLog>

@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<ArrayOfSubjectLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SubjectLog SubjectID="4" logID="0">
+    <Gender>Male</Gender>
+    <RunState>Practice</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Anger</SelectedEmotion>
+    <CorrectEmotion>Neutral</CorrectEmotion>
+    <OutOfBoxTime>12681.799700000001</OutOfBoxTime>
+    <Picture>NeutralMale</Picture>
+    <IsCorrect>false</IsCorrect>
+    <subjectErrors>
+      <ErrorList>
+        <HoveredEmotion>Sad</HoveredEmotion>
+        <HoverTime>63</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Ashamed</HoveredEmotion>
+        <HoverTime>375</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Neutral</HoveredEmotion>
+        <HoverTime>31</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Pride</HoveredEmotion>
+        <HoverTime>31</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Disgust</HoveredEmotion>
+        <HoverTime>271</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Neutral</HoveredEmotion>
+        <HoverTime>23</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Ashamed</HoveredEmotion>
+        <HoverTime>327</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Neutral</HoveredEmotion>
+        <HoverTime>87</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Ashamed</HoveredEmotion>
+        <HoverTime>23</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Anger</HoveredEmotion>
+        <HoverTime>223</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Ashamed</HoveredEmotion>
+        <HoverTime>551</HoverTime>
+      </ErrorList>
+    </subjectErrors>
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="1">
+    <Gender>Male</Gender>
+    <RunState>Practice</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Ashamed</SelectedEmotion>
+    <CorrectEmotion>Ashamed</CorrectEmotion>
+    <OutOfBoxTime>1065.9378000000002</OutOfBoxTime>
+    <Picture>AshamedMale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="2">
+    <Gender>Male</Gender>
+    <RunState>Practice</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Neutral</SelectedEmotion>
+    <CorrectEmotion>Neutral</CorrectEmotion>
+    <OutOfBoxTime>2025.9985000000002</OutOfBoxTime>
+    <Picture>NeutralFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="3">
+    <Gender>Male</Gender>
+    <RunState>Practice</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Pride</SelectedEmotion>
+    <CorrectEmotion>Pride</CorrectEmotion>
+    <OutOfBoxTime>545.61480000000006</OutOfBoxTime>
+    <Picture>PrideMale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="4">
+    <Gender>Male</Gender>
+    <RunState>Practice</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Ashamed</SelectedEmotion>
+    <CorrectEmotion>Ashamed</CorrectEmotion>
+    <OutOfBoxTime>5633.4662</OutOfBoxTime>
+    <Picture>AshamedFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors>
+      <ErrorList>
+        <HoveredEmotion>Disgust</HoveredEmotion>
+        <HoverTime>55</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Pride</HoveredEmotion>
+        <HoverTime>47</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Neutral</HoveredEmotion>
+        <HoverTime>271</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Ashamed</HoveredEmotion>
+        <HoverTime>464</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Neutral</HoveredEmotion>
+        <HoverTime>23</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Pride</HoveredEmotion>
+        <HoverTime>15</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Disgust</HoveredEmotion>
+        <HoverTime>15</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Fear</HoveredEmotion>
+        <HoverTime>15</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Happiness</HoveredEmotion>
+        <HoverTime>39</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Happiness</HoveredEmotion>
+        <HoverTime>407</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Fear</HoveredEmotion>
+        <HoverTime>15</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Disgust</HoveredEmotion>
+        <HoverTime>15</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Pride</HoveredEmotion>
+        <HoverTime>15</HoverTime>
+      </ErrorList>
+      <ErrorList>
+        <HoveredEmotion>Neutral</HoveredEmotion>
+        <HoverTime>15</HoverTime>
+      </ErrorList>
+    </subjectErrors>
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="5">
+    <Gender>Male</Gender>
+    <RunState>Practice</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Pride</SelectedEmotion>
+    <CorrectEmotion>Pride</CorrectEmotion>
+    <OutOfBoxTime>2473.6888</OutOfBoxTime>
+    <Picture>PrideFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="6">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Anger</SelectedEmotion>
+    <CorrectEmotion>Anger</CorrectEmotion>
+    <OutOfBoxTime>802.1296</OutOfBoxTime>
+    <Picture>AngerFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="7">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Happiness</SelectedEmotion>
+    <CorrectEmotion>Happiness</CorrectEmotion>
+    <OutOfBoxTime>545.5327</OutOfBoxTime>
+    <Picture>HappinessFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="8">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Happiness</SelectedEmotion>
+    <CorrectEmotion>Happiness</CorrectEmotion>
+    <OutOfBoxTime>729.93090000000007</OutOfBoxTime>
+    <Picture>HappinessMale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="9">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Anger</SelectedEmotion>
+    <CorrectEmotion>Anger</CorrectEmotion>
+    <OutOfBoxTime>1177.3441</OutOfBoxTime>
+    <Picture>AngerMale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="10">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Fear</SelectedEmotion>
+    <CorrectEmotion>Fear</CorrectEmotion>
+    <OutOfBoxTime>929.56720000000007</OutOfBoxTime>
+    <Picture>FearFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="11">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Disgust</SelectedEmotion>
+    <CorrectEmotion>Disgust</CorrectEmotion>
+    <OutOfBoxTime>577.5665</OutOfBoxTime>
+    <Picture>DisgustMale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="12">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Sad</SelectedEmotion>
+    <CorrectEmotion>Sad</CorrectEmotion>
+    <OutOfBoxTime>457.4546</OutOfBoxTime>
+    <Picture>SadMale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="13">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Disgust</SelectedEmotion>
+    <CorrectEmotion>Disgust</CorrectEmotion>
+    <OutOfBoxTime>1953.5652</OutOfBoxTime>
+    <Picture>DisgustFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="14">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Fear</SelectedEmotion>
+    <CorrectEmotion>Fear</CorrectEmotion>
+    <OutOfBoxTime>889.6939000000001</OutOfBoxTime>
+    <Picture>FearMale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+  <SubjectLog SubjectID="4" logID="15">
+    <Gender>Male</Gender>
+    <RunState>Test</RunState>
+    <DataCollectionState>pictureView</DataCollectionState>
+    <SelectedEmotion>Sad</SelectedEmotion>
+    <CorrectEmotion>Sad</CorrectEmotion>
+    <OutOfBoxTime>2193.8555</OutOfBoxTime>
+    <Picture>SadFemale</Picture>
+    <IsCorrect>true</IsCorrect>
+    <subjectErrors />
+  </SubjectLog>
+</ArrayOfSubjectLog>

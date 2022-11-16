@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ExperimentInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h>Experiment Info</h>
+  <paragraphs>
+	<p>This experiment is designed to examine the differences between emotion recognition in female and male participants. You will see human face pictures representing various emotions during test and 8 emotion boxes below the picture. These boxes offer participants fixed emotions which are Anger, Ashamed, Neutral, Pride, Disgust, Fear, Happiness and Sad. You are requested to click with mouse to one of these boxes which you think it represents the emotion of the current picture. Please try to choose your answers without wasting too much time. There will be Practice Part at the beginning, after Practice Part is ended you will be informed to pass Test Part. During experiment your eye data will be collected with an eye tracker device placed below the monitor. That's why please try to not move during test. </p>
+	<p>The results will not be matched with participants. </p>
+	<p>Thank you for your time and involvement. </p>
+    
+  </paragraphs>
+</ExperimentInfo>
